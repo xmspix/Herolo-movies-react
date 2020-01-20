@@ -24,7 +24,7 @@ function App() {
 
   useEffect(() => {
     const ApiKey = "124af7f8";
-    fetch(`http://www.omdbapi.com/?s=new&apikey=${ApiKey}`)
+    fetch(`https://www.omdbapi.com/?s=new&apikey=${ApiKey}`)
       .then(res => res.json())
       .then(data => {
         const titles = data.Search.map(itm => itm.Title);
@@ -34,7 +34,7 @@ function App() {
         return Promise.all(
           titles.map(title => {
             return fetch(
-              `http://www.omdbapi.com/?t=${title}&plot=full&apikey=${ApiKey}`
+              `https://www.omdbapi.com/?t=${title}&plot=full&apikey=${ApiKey}`
             )
               .then(res => res.json())
               .then(data => data);
