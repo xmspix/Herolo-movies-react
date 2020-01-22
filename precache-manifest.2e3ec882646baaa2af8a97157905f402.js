@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9985fdf2ca839c2c6d533f6895b160f4",
+    "revision": "09f72fbb15f89a6c4d68c2a2cf43f9f4",
     "url": "/Herolo-movies-react/index.html"
   },
   {
-    "revision": "b5e6dc6ca257533b4ff9",
-    "url": "/Herolo-movies-react/static/css/main.ffa6d33c.chunk.css"
+    "revision": "8d7810f7578e34c624ac",
+    "url": "/Herolo-movies-react/static/css/main.c073db39.chunk.css"
   },
   {
     "revision": "beb2fa9ac46248c9efce",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Herolo-movies-react/static/js/2.611c9961.chunk.js.LICENSE"
   },
   {
-    "revision": "b5e6dc6ca257533b4ff9",
+    "revision": "8d7810f7578e34c624ac",
     "url": "/Herolo-movies-react/static/js/main.b59ab5dd.chunk.js"
   },
   {

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Herolo-movies-react/static/css/main.ffa6d33c.chunk.css",
+    "main.css": "/Herolo-movies-react/static/css/main.c073db39.chunk.css",
     "main.js": "/Herolo-movies-react/static/js/main.b59ab5dd.chunk.js",
     "main.js.map": "/Herolo-movies-react/static/js/main.b59ab5dd.chunk.js.map",
     "runtime-main.js": "/Herolo-movies-react/static/js/runtime-main.b84c66bc.js",
@@ -8,15 +8,15 @@
     "static/js/2.611c9961.chunk.js": "/Herolo-movies-react/static/js/2.611c9961.chunk.js",
     "static/js/2.611c9961.chunk.js.map": "/Herolo-movies-react/static/js/2.611c9961.chunk.js.map",
     "index.html": "/Herolo-movies-react/index.html",
-    "precache-manifest.298bdd7cbe991ed5f71bf9b06ab112c8.js": "/Herolo-movies-react/precache-manifest.298bdd7cbe991ed5f71bf9b06ab112c8.js",
+    "precache-manifest.2e3ec882646baaa2af8a97157905f402.js": "/Herolo-movies-react/precache-manifest.2e3ec882646baaa2af8a97157905f402.js",
     "service-worker.js": "/Herolo-movies-react/service-worker.js",
-    "static/css/main.ffa6d33c.chunk.css.map": "/Herolo-movies-react/static/css/main.ffa6d33c.chunk.css.map",
+    "static/css/main.c073db39.chunk.css.map": "/Herolo-movies-react/static/css/main.c073db39.chunk.css.map",
     "static/js/2.611c9961.chunk.js.LICENSE": "/Herolo-movies-react/static/js/2.611c9961.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.b84c66bc.js",
     "static/js/2.611c9961.chunk.js",
-    "static/css/main.ffa6d33c.chunk.css",
+    "static/css/main.c073db39.chunk.css",
     "static/js/main.b59ab5dd.chunk.js"
   ]
 }
