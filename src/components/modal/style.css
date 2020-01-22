@@ -48,6 +48,10 @@
   border-bottom-right-radius: 12px;
 }
 
+.modal-footer .btn {
+  padding: 0 1rem;
+}
+
 .modal-close {
   color: #777;
   font-size: 3rem;

@@ -8,10 +8,6 @@
   transition: all 0.2s;
 }
 
-.btn:focus {
-  display: none;
-}
-
 .btn-small {
   flex: 0 15%;
 }
